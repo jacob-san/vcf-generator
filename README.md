@@ -16,7 +16,7 @@ Ensure you have the contacts-4k.json file in the same directory as the script.
 Run the script using the following command:
 
 ```
-python VCardGenerator.py
+python generate-vcf.py
 ```
 
 The script will prompt you to enter the following information:
